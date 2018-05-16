@@ -1,0 +1,6 @@
+1、先从git官网新建文件夹下载到本地：git clone ‘https://github.com/SunshineBoy888/extraRepository.git’
+2、通过第一步已近存在git文件夹
+	2.1、首次新建文件夹后：git add * （添加所有文件）
+	2.2、如果不是首次新建  添加 git fetch，以及 git pull 后再执行 2.1
+3、再执行 git commit -m ‘注释’ 
+4、最后push：git push
